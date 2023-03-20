@@ -1,0 +1,27 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "First Attempt of Making a Discord Bot. Primary use of playing music out of youtube, also roll dice",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "author": "Karton",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.13.0",
+    "discord-music-player": "^9.1.1",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.1.0",
+    "isomorphic-unfetch": "^3.1.0",
+    "libsodium-wrappers": "^0.7.10",
+    "play-dl": "^1.9.6",
+    "prettier": "^2.7.1",
+    "vulcan-api-js": "^3.3.0",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.2"
+  }
+}

@@ -1,0 +1,7 @@
+.env
+node_modules
+.idea
+/vulcan/accounts/
+/vulcan/keystore.json
+/yarn.lock
+/.prettierrc.json
