@@ -5,3 +5,4 @@ node_modules
 /vulcan/keystore.json
 /yarn.lock
 /.prettierrc.json
+/days
